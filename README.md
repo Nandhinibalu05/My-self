@@ -18,7 +18,7 @@
 - 🎓 3rd Year **B.Tech in Artificial Intelligence & Data Science**
 - 🧠 Strong knowledge in **Machine Learning & Deep Learning**
 - 💡 Passionate about **coding**, **AI research**, and **building impactful projects**
-- 🏆 Solved **100+ problems** on **LeetCode**
+- 🏆 Solved **150+ problems** on **LeetCode**
 - ✨ Currently learning **Full Stack Development**
 - 📫 Email: **nandhinibalu070@gmail.com**
 
