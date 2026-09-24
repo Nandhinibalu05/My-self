@@ -196,6 +196,6 @@ Generative AI
 Large Language Models
 Retrieval-Augmented Generation
 MCP
-Machine Learning
+Advanced Machine Learning
 AI Engineering
 Data Analytics
