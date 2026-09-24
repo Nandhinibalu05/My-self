@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🧠 AI & Data Science Student | Building with AI, ML & GenAI | Learning, Experimenting & Creating
+🧠 AI & Data Science Student | Learning, Building & Experimenting with AI
 </h3>
 
 <p align="center">
@@ -18,15 +18,15 @@
 
 🧠 Interested in **Machine Learning, Deep Learning, NLP, Generative AI and LLMs**
 
-💡 I enjoy building intelligent applications that solve real-world problems.
+💡 Interested in building **AI-powered applications and intelligent systems**
 
-🔍 Currently exploring **RAG, LLM-based applications, semantic search and AI engineering**
+🔎 Currently exploring **RAG, LLM applications, semantic search and AI Engineering**
 
 💻 Languages: **Python, Java, SQL**
 
 📚 Published research in **ACL Anthology – DravidianLangTech 2026**
 
-📍 India 🇮🇳
+🇮🇳 Based in India
 
 ---
 
@@ -60,16 +60,17 @@
 
 ---
 
-## 🚀 What I Work With
+## 🛠️ Tech Stack
 
-<p align="center">
+### 👩‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,pytorch,tensorflow,git,github,vscode" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
 </p>
 
-<p align="center">
+### 🤖 AI & Machine Learning
 
+<p>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
@@ -77,8 +78,19 @@
 <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
-
 </p>
+
+### 🔧 Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,vscode" />
+</p>
+
+`Keras` `Scikit-learn` `FastAPI` `NumPy` `Pandas` `LlamaIndex`
+
+### 🗄️ Databases
+
+`PostgreSQL` `MySQL` `MongoDB` `ChromaDB`
 
 ---
 
@@ -86,13 +98,19 @@
 
 ### 🤖 AI Engineer Intern — Kognex.ai
 
+**March 2025 – May 2025**
+
 Developed an **LLM-based Policy Retrieval & Management System** using:
 
 `FastAPI` `ChromaDB` `MCP` `RAG` `Semantic Search` `Vector Embeddings`
 
-Worked on document ingestion, PDF parsing, text chunking, embeddings, semantic retrieval and REST APIs.
+Worked on document ingestion, PDF parsing, intelligent text chunking, embeddings, semantic retrieval and RESTful APIs.
+
+---
 
 ### 🧠 Deep Learning Intern — Shinelogics
+
+**January 2026 – Present**
 
 Worked on a **real-time computer vision pipeline using YOLO** for fruit and vegetable detection, localization and classification.
 
@@ -104,31 +122,33 @@ Also worked on image preprocessing, bounding-box annotation, model evaluation an
 
 ### 🗣️ Tamil Abusive Comment Detection
 
-Multilingual NLP classification system using **XLM-RoBERTa**.
+Built a multilingual NLP classification pipeline using fine-tuned **XLM-RoBERTa**.
 
 📊 **93.18% validation accuracy**
 
-🔹 Text preprocessing & normalization  
+🔹 Text preprocessing and normalization  
 🔹 Data augmentation  
 🔹 Class-weighted training  
-🔹 Precision, Recall & F1 evaluation
+🔹 Precision, Recall and F1-score evaluation  
 
-**Tech:** Python • XLM-RoBERTa • Hugging Face • PyTorch • Scikit-learn
+**Tech:** Python • XLM-RoBERTa • Hugging Face • PyTorch • Scikit-learn • Pandas
 
 ---
 
 ### 🌍 Air Quality Prediction System
 
-Machine learning system for predicting **7 air-quality categories** using environmental and pollutant parameters.
+Developed a machine learning system to predict **7 air-quality categories** using pollutant and environmental parameters.
 
 🔹 Exploratory Data Analysis  
 🔹 Missing-value imputation  
 🔹 Feature engineering  
 🔹 Correlation analysis  
 🔹 Ensemble Voting Classifier  
-🔹 Streamlit deployment
+🔹 Streamlit deployment  
 
 **Models:** Random Forest • XGBoost • LightGBM
+
+**Tech:** Python • Pandas • Scikit-learn • Jupyter Notebook • Streamlit
 
 ---
 
@@ -142,47 +162,34 @@ Research focused on multilingual transformer-based NLP for Tamil abusive content
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandhinibalu05&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhinibalu05&layout=compact&langs_count=8&theme=radical"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Nandhinibalu05&theme=radical&hide_border=false"/>
-</p>
-
----
-
 # 🧩 LeetCode
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/Nandhinibalu05?theme=dark&font=baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Nandhini115?theme=dark&font=baloo&ext=heatmap" />
 
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhinibalu05&theme=react-dark&hide_border=true"/>
+<a href="https://leetcode.com/u/Nandhini115/">
+  <img src="https://img.shields.io/badge/LeetCode-Nandhini115-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </p>
 
+### 💻 Problem Solving
+
+- 🟢 **Easy:** 186
+- 🟡 **Medium:** 77
+- 🔴 **Hard:** 11
+- 🎯 **Total Solved:** 274
+- 🏅 **100 Days Badge – 2026**
+- 💻 Primary languages: **Java, C, MySQL**
+
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 ```text
 Generative AI
